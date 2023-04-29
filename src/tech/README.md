@@ -1,5 +1,5 @@
 ---
-title: 技术改变世界
+title: 技能
 author: false
 sidebar: heading
 date: 2023-04-28
