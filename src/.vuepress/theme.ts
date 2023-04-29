@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "cyc-987/cyc-987.github.io",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "src",
  
   // navbar
   navbar: enNavbar,
