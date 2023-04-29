@@ -1,0 +1,1 @@
+import{_ as a,X as t,Y as c,a1 as e,a2 as n}from"./framework-a7f73175.js";const r={},s=e("h2",{id:"暂时是空的",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#暂时是空的","aria-hidden":"true"},"#"),n(" 暂时是空的")],-1),o=[s];function _(d,i){return t(),c("div",null,o)}const l=a(r,[["render",_],["__file","index.html.vue"]]);export{l as default};
