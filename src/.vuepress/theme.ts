@@ -27,6 +27,8 @@ export default hopeTheme({
   footer: "Made by cyc-987 with love😘 and passion🚀",
 
   displayFooter: true,
+  contributors: false,
+  hotReload: true,
 
   metaLocales: {
     editLink: "在GitHub中查看",
