@@ -9,10 +9,12 @@ date: 2023-04-28
 
 ## [C大程](/tech/c/)
 
+程序专题设计课程学习之路
+
 ## [FPGA开发](/tech/fpga/)
+
+数字系统课程学习
 
 ## [乱七八糟的技术](/tech/others/)
 
-### 环境配置
-
-[vscode连接win远程开发](/tech/others/vscode远程开发：连接本地windows虚拟机)
+其他技能
