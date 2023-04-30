@@ -4,6 +4,11 @@ author: false
 sidebar: heading
 ---
 
+## 工具学习
+
+### [Git](/tech/others/Git.md)
+一个开源的分布式版本控制系统
+
 ## 知识储备
 
 ### [callback回调函数初步](/tech/c/callback.md)
