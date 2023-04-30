@@ -23,6 +23,7 @@ export default hopeTheme({
 
   // sidebar
   sidebar: "heading",
+  headerDepth: 3,
 
   footer: "Made by cyc-987 with love😘 and passion🚀",
 
