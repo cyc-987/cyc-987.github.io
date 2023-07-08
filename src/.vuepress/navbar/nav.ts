@@ -6,9 +6,8 @@ export const enNavbar = navbar([
     text: "技术", 
     prefix: "/tech/",
     children: [
-      {text: "C大程", link:"c/"},
-      {text: "FPGA", link:"fpga/"},
-      {text: "一些研究", link:"others/"}
+      {text: "编程寄术", link:"code/"},
+      {text: "其他技术", link:"others/"}
     ]
   },
   {
