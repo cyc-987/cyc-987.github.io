@@ -9,7 +9,13 @@ sidebar: heading
 ### [Git](/tech/others/Git.md)
 一个开源的分布式版本控制系统
 
+### [GNU make](/tech/code/make.md)
+学不会你就完蛋了
+
 ## 知识储备
 
-### [callback回调函数初步](/tech/c/callback.md)
+### [Learning C++](/tech/code/cpp/)
+在C语言基础上开发的一种集面向对象编程、泛型编程和过程化编程于一体的编程语言，是C语言的超集
+
+### [callback回调函数初步](/tech/code/callback.md)
 阐释了回调函数的入门解释以及基础使用方法。

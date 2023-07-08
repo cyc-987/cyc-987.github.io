@@ -26,9 +26,13 @@ features:
     details: 最近读了些什么，听了些什么，想了些什么
     link: /life/
   
-  - title: 😘macOS
-    details: macOS是世界上最好的系统！
+  - title: 😘UNIX
+    details: unix（和类unix）是世界上最好的系统！
     link: https://www.apple.com.cn/mac/mac-does-that/
+
+  - title: 📄最新文章
+    details: 我正在学习C++！
+    link: /tech/code/cpp/
 
 
 
