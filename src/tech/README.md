@@ -2,18 +2,14 @@
 title: 技能
 author: false
 sidebar: heading
-date: 2023-04-28
 ---
 
 
 
-## [C大程](/tech/c/)
+## [Coding](/tech/code/)
 
-程序专题设计课程学习之路
+编程寄术
 
-## [FPGA开发](/tech/fpga/)
-
-数字系统课程学习
 
 ## [乱七八糟的技术](/tech/others/)
 
