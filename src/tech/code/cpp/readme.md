@@ -21,3 +21,4 @@ int main()
 ## 目录
 
 - [处理数据](/tech/code/cpp/data.md)
+- [复合类型](/tech/code/cpp/compound.md)
