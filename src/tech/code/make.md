@@ -113,6 +113,7 @@ clean:
 ### 创建静态库
 ```sh
 $ar rcs libsum.a sum.o
+#ar rcs /usr/bin/libsum.a sum.o指定输出目录
 ```
 - ar是一个Linux程序，它能将**一个或多个**.o打包成.a，即一个静态库
 - ar也可以用来删除、替换或提取.o文件
