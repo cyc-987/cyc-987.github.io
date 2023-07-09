@@ -91,3 +91,37 @@ clean:
 - `gcc -MMD -c main.c` 会在编译main.c的同时分析其中引用的头文件，产生`main.d`文件：内容`main.o: main.c sum.h`
 - 在makefile里可以引用这些.d文件，形成依赖说明
 - `-include main.d sum.d`
+
+```makefile
+CC = gcc
+CFLAG = -MMD
+TARGET = sum
+OBJS = main.o sum.o
+DEPS = $(OBJS:.o=.d)
+$(TARGET): $(OBJS)
+        $(CC) -o $@ $^
+-include $(DEPS)
+.c.o:
+    $(CC) $(CFLAG) -c -o $@ $<
+clean:
+    rm $(TARGET) $(OBJS) $(DEPS)
+```
+
+## 库的发布和使用
+**目的：避免暴露源码，避免重复编译**
+
+### 创建静态库
+```sh
+$ar rcs libsum.a sum.o
+```
+- ar是一个Linux程序，它能将**一个或多个**.o打包成.a，即一个静态库
+- ar也可以用来删除、替换或提取.o文件
+- 一般一个.a配套一个.o文件
+
+### 使用静态库
+```sh
+$gcc -o sum main.o -L. -lsum
+```
+- **-l**:将libsum.a这个静态库和代码集成
+- **-L.**：库在当前目录
+- 库文件名没有`lib`也没有`.a`（实际文件名为`libsum.a`）
