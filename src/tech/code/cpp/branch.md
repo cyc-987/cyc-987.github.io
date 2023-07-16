@@ -49,3 +49,14 @@ goto label;
 ```cpp
 label: statement
 ```
+
+## 读取数字的循环
+### cin错误的处理方法
+```cpp
+while(!(cin >> golf[i])){
+    cin.clear();
+    while(cin.get() != '\n')
+        continue;
+    cout << "Please enter a number: ";
+}
+```
