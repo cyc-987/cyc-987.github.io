@@ -25,6 +25,10 @@ export default hopeTheme({
   sidebar: "structure",
   headerDepth: 3,
 
+  //next and prev page button
+  prevLink: true,
+  nextLink: true,
+
   footer: "Made by cyc-987 with love😘 and passion🚀",
 
   displayFooter: true,

@@ -2,6 +2,8 @@
 title: 分支和循环语句
 author: false
 sidebar: heading
+prev: ./loop.md
+next: false
 ---
 
 ## if语句

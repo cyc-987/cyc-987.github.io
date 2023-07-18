@@ -2,6 +2,8 @@
 title: 处理数据
 author: false
 sidebar: heading
+prev: false
+next: ./compound.md
 ---
 
 ## 简单变量

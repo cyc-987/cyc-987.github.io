@@ -2,6 +2,8 @@
 title: 复合类型
 author: false
 sidebar: heading
+prev: ./data.md
+next: ./loop.md
 ---
 
 ## 数组

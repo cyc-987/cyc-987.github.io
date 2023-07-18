@@ -2,6 +2,8 @@
 title: 循环和关系表达式
 author: false
 sidebar: heading
+prev: ./compound.md
+next: ./branch.md
 ---
 
 ## 关于表达式和语句
