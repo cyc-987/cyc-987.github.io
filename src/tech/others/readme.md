@@ -11,3 +11,6 @@ sidebar: heading
 ## [Git](/tech/others/Git)
 
 一个开源的分布式版本控制系统
+
+## [whisper](/tech/others/whisper)
+openai的一个音频转文字项目，本地运行

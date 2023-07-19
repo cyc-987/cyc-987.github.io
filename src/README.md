@@ -30,11 +30,13 @@ features:
     details: unix（和类unix）是世界上最好的系统！
     link: https://www.apple.com.cn/mac/mac-does-that/
 
-  - title: 📄最新文章
+  - title: 📄最新内容
     details: 我正在学习C++！
     link: /tech/code/cpp/
 
-
+  - title: 📄最新内容
+    details: Whisper by openai！
+    link: /tech/others/whisper.md
 
 copyright: false
 footer: Made by cyc-987 with love😘 and passion🚀
