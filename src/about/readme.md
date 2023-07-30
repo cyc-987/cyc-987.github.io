@@ -25,10 +25,6 @@ date: 2023-04-28
 ## 如果你想和我聊聊
 
 - QQ：2516803593
-- email:
-    - 2516803593@qq.com
-    - 3220103853@zju.edu.cn
-    - cuiyucheng2004@gmail.com
 - wechat：不告诉你（调皮）
 
 ::: warning 注意
