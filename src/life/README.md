@@ -5,5 +5,5 @@ sidebar: heading
 date: 2023-04-28
 ---
 
-## 暂时是空的
+## 搬运[玉泉的风水](/life/novel.md)
 

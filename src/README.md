@@ -38,6 +38,10 @@ features:
     details: Whisper by openai！
     link: /tech/others/whisper.md
 
+  - title: 奇怪的小说
+    details: 【转】玉泉的风水
+    link: /life/novel.md
+
 copyright: false
 footer: Made by cyc-987 with love😘 and passion🚀
 ---
