@@ -35,8 +35,8 @@ features:
     link: /tech/code/cpp/
 
   - title: 📄最新内容
-    details: Whisper by openai！
-    link: /tech/others/whisper.md
+    details: 在macOS下配置C语言环境
+    link: /tech/code/cproperties.md
 
   - title: 奇怪的小说
     details: 【转】玉泉的风水

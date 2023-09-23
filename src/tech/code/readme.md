@@ -19,3 +19,6 @@ sidebar: heading
 
 ### [callback回调函数初步](/tech/code/callback.md)
 阐释了回调函数的入门解释以及基础使用方法。
+
+### [在Mac上优雅的写C（配置）](/tech/code/cproperties.md)
+在macOS下配置C语言环境
