@@ -1,5 +1,5 @@
 ---
-title: 我就是一臭写代码的
+title: 代码
 author: false
 sidebar: heading
 ---

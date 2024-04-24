@@ -4,7 +4,7 @@ author: false
 sidebar: heading
 ---
 
-
+## [资源](/tech/resources.md)
 
 ## [Coding](/tech/code/)
 

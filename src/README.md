@@ -30,17 +30,13 @@ features:
     details: unix（和类unix）是世界上最好的系统！
     link: https://www.apple.com.cn/mac/mac-does-that/
 
-  - title: 📄最新内容
-    details: 我正在学习C++！
-    link: /tech/code/cpp/
-
-  - title: 📄最新内容
-    details: 在macOS下配置C语言环境
-    link: /tech/code/cproperties.md
-
   - title: 奇怪的小说
     details: 【转】玉泉的风水
     link: /life/novel.md
+
+  - title: 💡资源聚合
+    details: 一个学习资源聚合页
+    link: /tech/resources.md
 
 copyright: false
 footer: Made by cyc-987 with love😘 and passion🚀
